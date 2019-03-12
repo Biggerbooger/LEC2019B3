@@ -1,6 +1,6 @@
 
 clear
-clear all
+clear functions
 
 printinfo('Jason', 80);
 printinfo('Kathy', 85);
